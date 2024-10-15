@@ -7,7 +7,6 @@ I also collaborate creating front-end applications with my team and end to end u
 
 Skills: JS / HTML / CSS / Python/ Java / C++ / flask / Django
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Django 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Python  
